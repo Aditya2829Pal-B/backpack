@@ -125,3 +125,5 @@ If you want to try the production build of the extension, run `yarn build` and d
 ## License
 
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion by you shall be licensed at the discretion of the repository maintainers without any additional terms or conditions.
+
+Author: hkirat
